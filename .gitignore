@@ -1,0 +1,10 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Visual Paradigm backup and temporary files
+*.bak*
+*.vbak
+*.vpp~
+*.vpp.bak*
+*.vpp.vbak
